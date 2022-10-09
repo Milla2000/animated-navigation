@@ -191,7 +191,7 @@ nav li:nth-of-type(5) {
 .bar3 {
   width: 35px;
   height: 2px;
-  background-color: #fff;
+  background-color: rgb(208, 3, 3);
   margin: 8px 0;
   transition: 0.4s;
 }
